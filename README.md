@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://gravatar.com/avatar/1d15d6e4798a9c0de470ce13a300a9a8?s=200" alt="Lyon Müller Avatar" width="120" />
+  <img src="https://2.gravatar.com/avatar/1b8053747e3dc63fea234d923234fa7999b40bb1ac309e4e5a28ef2e1b55dcd3?size=200" alt="Lyon Müller Avatar" width="120" />
 </div>
 
 <h1 align="center">Lyon Müller</h1>
