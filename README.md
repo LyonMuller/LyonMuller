@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://2.gravatar.com/avatar/1b8053747e3dc63fea234d923234fa7999b40bb1ac309e4e5a28ef2e1b55dcd3?size=200" alt="Lyon Müller Avatar" width="120" />
+  <img src="https://2.gravatar.com/avatar/1b8053747e3dc63fea234d923234fa7999b40bb1ac309e4e5a28ef2e1b55dcd3?size=200" alt="Lyon Müller Avatar" width="120" style="border-radius: 50%" />
 </div>
 
 <h1 align="center">Lyon Müller</h1>
@@ -36,15 +36,15 @@ I’ve worked with national and international clients, delivering high-performin
 ### 💻 Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/sass-deeppink.svg?style=for-the-badge&logo=sass&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### ⚙️ Backend
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A.svg?style=for-the-badge&logo=woocommerce&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -60,21 +60,26 @@ I’ve worked with national and international clients, delivering high-performin
 
 ## 🏆 Highlights
 
-- ⚙️ Created internal SEO tools and plugins for [Tecnoblog.net](https://tecnoblog.net)  
-- 📈 Developed e-commerce sites with over R$2M in sales  
-- 🚀 Scored >90 on Google PageSpeed on multiple projects  
-- 🔌 Built robust APIs and integrated external services (Google APIs, CRMs)  
-- 🎨 Delivered custom WordPress themes with ACF and CPT  
+- 🎨 Delivered custom WordPress themes with ACF and CPT
+- 📈 Developed e-commerce sites with over R$2M in sales
+- 🚀 Scored >90 on Google PageSpeed on multiple projects
+- 🔌 Built APIs and integrated external services into WordPress (Google APIs, CRMs)  
+- ⚙️ Developed and maintained internal SEO tools and plugins for [Tecnoblog.net](https://tecnoblog.net)  
 
 ---
 
 ## 💼 Featured Projects
 
-- ⛏ [Rudnick Minérios](https://rudnickminerios.com.br) – Figma to WordPress (ACF)
-- 🧠 [Instituto Miguel Abuhab](https://institutomiguelabuhab.com.br) – HTML to WordPress migration  
-- 🛳 [Marincred](https://marincred.com.br) –  Figma to WordPress (ACF)
-- 🚘 [RideIn](https://ridein.com.br) – Figma to WordPress (ACF)
-- 📡 [Boats Granfort](https://boatsgranfort.com/) – Theme with dynamic configurator (ACF)
+- [Rudnick Minérios](https://rudnickminerios.com.br) – Figma to WordPress (ACF)  
+- [Instituto Miguel Abuhab](https://institutomiguelabuhab.com.br) – HTML to WordPress  
+- [Marincred](https://marincred.com.br) – Figma to WordPress (ACF)  
+- [RideIn](https://ridein.com.br) – Figma to WordPress (ACF)  
+- [Boats Granfort](https://boatsgranfort.com/) – Theme with dynamic configurator (ACF)  
+- [Servertecno](https://servertecno.com.br) – WordPress site built with ACF + Bootstrap  
+- [Select Soluções](https://selectsolucoes.com.br) – WordPress site built with ACF + Bootstrap  
+- [Wavecode](https://wavecode.com.br) – WordPress site built with ACF + Bootstrap  
+- [Dualbase](https://dualbase.com.br) – WordPress site built with ACF + Bootstrap  
+- [JF Pratas](https://jfpratas.com.br) – WooCommerce store with product filters (ACF)
 
 ---
 
