@@ -8,9 +8,9 @@
 </p>
 
 <div align="center">
-  <a href="https://lyon.dev">Website</a> • 
-  <a href="https://lyon.craft.me/portfolio">Portfolio</a> • 
-  <a href="https://linkedin.com/in/lyonmuller">LinkedIn</a> • 
+  <a href="https://lyon.dev" target="_blank">Website</a> • 
+  <a href="https://lyon.craft.me/portfolio" target="_blank">Portfolio</a> • 
+  <a href="https://www.linkedin.com/in/lyonmuller" target="_blank">LinkedIn</a> • 
   <a href="mailto:iam@lyon.dev">Email</a>
 </div>
 
@@ -22,12 +22,12 @@ I'm a Brazilian Web Developer with over 8 years of experience building custom we
 
 I focus on:
 
-- Performance and Technical SEO
-- Accessibility (WCAG Compliance)
-- Custom Plugin Development & API Integration
-- Modular and maintainable architecture
+- Performance and Technical SEO  
+- Accessibility (WCAG Compliance)  
+- Custom Plugin Development & API Integration  
+- Modular and maintainable architecture  
 
-I’ve worked with national and international clients, helping deliver high-performing solutions with attention to detail and clean code.
+I’ve worked with national and international clients, delivering high-performing solutions with attention to detail and clean code.
 
 ---
 
@@ -60,21 +60,21 @@ I’ve worked with national and international clients, helping deliver high-perf
 
 ## 🏆 Highlights
 
-- ⚙️ Created internal SEO tools and plugins for [Tecnoblog.net](https://tecnoblog.net)
-- 📈 Developed e-commerce sites with over R$2M in sales
-- 🚀 Scored >90 on Google PageSpeed on multiple projects
-- 🔌 Built robust APIs and integrated external services (Google APIs, CRMs)
-- 🎨 Delivered custom WordPress themes with ACF and CPT
+- ⚙️ Created internal SEO tools and plugins for [Tecnoblog.net](https://tecnoblog.net)  
+- 📈 Developed e-commerce sites with over R$2M in sales  
+- 🚀 Scored >90 on Google PageSpeed on multiple projects  
+- 🔌 Built robust APIs and integrated external services (Google APIs, CRMs)  
+- 🎨 Delivered custom WordPress themes with ACF and CPT  
 
 ---
 
 ## 💼 Featured Projects
 
-- ⛏ [Rudnick Minérios](https://rudnickminerios.com.br) – Custom frontend with clean UX
-- 🧠 [Instituto Miguel Abuhab](https://institutomiguelabuhab.com.br) – Static to WordPress migration
-- 🛳 [Marincred](https://marincred.com.br) – Theme with dynamic configurator (ACF)
-- 🚘 [RideIn](https://ridein.com.br) – UX-first design + visual identity implementation
-- 📡 [NorthSea Company](https://boatsgranfort.com/) – International WooCommerce site
+- ⛏ [Rudnick Minérios](https://rudnickminerios.com.br) – Figma to WordPress (ACF)
+- 🧠 [Instituto Miguel Abuhab](https://institutomiguelabuhab.com.br) – HTML to WordPress migration  
+- 🛳 [Marincred](https://marincred.com.br) –  Figma to WordPress (ACF)
+- 🚘 [RideIn](https://ridein.com.br) – Figma to WordPress (ACF)
+- 📡 [Boats Granfort](https://boatsgranfort.com/) – Theme with dynamic configurator (ACF)
 
 ---
 
@@ -89,9 +89,9 @@ I’ve worked with national and international clients, helping deliver high-perf
 
 ## 📬 Get in Touch
 
-- 🌐 [lyon.dev](https://lyon.dev)
-- 📧 iam@lyon.dev
-- 💼 [linkedin.com/in/lyonmuller](https://linkedin.com/in/lyonmuller)
+- 🌐 [lyon.dev](https://lyon.dev)  
+- 📧 [iam@lyon.dev](mailto:iam@lyon.dev)
+- 💼 [linkedin.com/in/lyonmuller](https://www.linkedin.com/in/lyonmuller)  
 
 ---
 
