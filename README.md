@@ -43,10 +43,18 @@ I’ve worked with national and international clients, delivering high-performin
 
 ### ⚙️ Backend
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A.svg?style=for-the-badge&logo=woocommerce&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+## 🧩 WordPress Expertise
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A.svg?style=for-the-badge&logo=woocommerce&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
+![ACF](https://img.shields.io/badge/ACF-%230075BD?style=for-the-badge&logoColor=white)
+![WP Bakery](https://img.shields.io/badge/WP%20Bakery-67A0D9?style=for-the-badge&logoColor=white)
+![Custom Plugins](https://img.shields.io/badge/Custom%20Plugins-1E1E1E?style=for-the-badge&logoColor=white)
+![Custom Integrations](https://img.shields.io/badge/Custom%20Integrations-1E1E1E?style=for-the-badge&logoColor=white)
+
 
 ### 🛠 Tools & Others
 ![Docker](https://img.shields.io/badge/docker-%23316192.svg?style=for-the-badge&logo=docker&logoColor=white)
