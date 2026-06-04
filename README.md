@@ -1,110 +1,97 @@
-<div align="center">
-  <img src="https://2.gravatar.com/avatar/1b8053747e3dc63fea234d923234fa7999b40bb1ac309e4e5a28ef2e1b55dcd3?size=200" alt="Lyon Müller Avatar" width="120" style="border-radius: 50%" />
-</div>
-
-<h1 align="center">Lyon Müller</h1>
-<p align="center">
-  Web Developer specialized in WordPress, WooCommerce, and Web Performance.
-</p>
+<a href="https://lyon.dev">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:525DDC,100:2B3072&height=180&section=header&text=Lyon+M%C3%BCller&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=WordPress+Developer+%C2%B7+Front-end+Engineer&descAlignY=60&descSize=15" alt="Lyon Müller" />
+</a>
 
 <div align="center">
-  <a href="https://lyon.dev" target="_blank">Website</a> • 
-  <a href="https://lyon.craft.me/portfolio" target="_blank">Portfolio</a> • 
-  <a href="https://www.linkedin.com/in/lyonmuller" target="_blank">LinkedIn</a> • 
-  <a href="mailto:iam@lyon.dev">Email</a>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1500&color=8B949E&center=true&vCenter=true&width=560&lines=Building+fast%2C+scalable+WordPress+solutions.;Sage+%7C+Acorn+%7C+Blade+%7C+Tailwind+CSS.;Based+in+Brazil+%C2%B7+Working+globally.)](https://lyon.dev)
+
+[![Website](https://img.shields.io/badge/lyon.dev-000?style=flat-square&logo=safari&logoColor=white)](https://lyon.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-525DDC?style=flat-square&logo=notion&logoColor=white)](https://lyon.craft.me/portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lyonmuller)
+[![Email](https://img.shields.io/badge/iam%40lyon.dev-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:iam@lyon.dev)
+
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-I'm a Brazilian Web Developer with over 8 years of experience building custom websites, e-commerce platforms, and scalable WordPress solutions.
+I'm a Brazilian web developer specializing in **WordPress, WooCommerce, and front-end architecture**. I build custom themes, scalable e-commerce platforms, and performance-focused web applications — using Sage, Acorn, Blade, Tailwind CSS, and Vite.
 
-I focus on:
+I've delivered institutional websites, high-traffic WooCommerce stores, content portals, custom plugins, and API integrations for clients in Brazil and internationally.
 
-- Performance and Technical SEO  
-- Accessibility (WCAG Compliance)  
-- Custom Plugin Development & API Integration  
-- Modular and maintainable architecture  
-
-I’ve worked with national and international clients, delivering high-performing solutions with attention to detail and clean code.
+**Currently available for freelance projects.**
 
 ---
 
-## 🛠️ Tech Stack
+## What I'm focused on right now
 
-### 💻 Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/sass-deeppink.svg?style=for-the-badge&logo=sass&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-### ⚙️ Backend
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-## 🧩 WordPress Expertise
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A.svg?style=for-the-badge&logo=woocommerce&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
-![ACF](https://img.shields.io/badge/ACF-%230075BD?style=for-the-badge&logoColor=white)
-![WP Bakery](https://img.shields.io/badge/WP%20Bakery-67A0D9?style=for-the-badge&logoColor=white)
-![Custom Plugins](https://img.shields.io/badge/Custom%20Plugins-1E1E1E?style=for-the-badge&logoColor=white)
-![Custom Integrations](https://img.shields.io/badge/Custom%20Integrations-1E1E1E?style=for-the-badge&logoColor=white)
-
-
-### 🛠 Tools & Others
-![Docker](https://img.shields.io/badge/docker-%23316192.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+```
+→  Roots Sage / Acorn ecosystem
+→  WordPress as an application platform
+→  AI-assisted development workflows
+→  Performance & accessibility automation
+→  Visual regression testing with Playwright
+```
 
 ---
 
-## 🏆 Highlights
+## Stack
 
-- 🎨 Delivered custom WordPress themes with ACF and CPT
-- 📈 Developed e-commerce sites with over R$2M in sales
-- 🚀 Scored >90 on Google PageSpeed on multiple projects
-- 🔌 Built APIs and integrated external services into WordPress (Google APIs, CRMs)  
-- ⚙️ Developed and maintained internal SEO tools and plugins for [Tecnoblog.net](https://tecnoblog.net)  
+### Front-end
 
----
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-## 💼 Featured Projects
+### WordPress / PHP
 
-- [Rudnick Minérios](https://rudnickminerios.com.br) – Figma to WordPress (ACF)  
-- [Instituto Miguel Abuhab](https://institutomiguelabuhab.com.br) – HTML to WordPress  
-- [Marincred](https://marincred.com.br) – Figma to WordPress (ACF)  
-- [RideIn](https://ridein.com.br) – Figma to WordPress (ACF)  
-- [Boats Granfort](https://boatsgranfort.com/) – Theme with dynamic configurator (ACF)  
-- [Servertecno](https://servertecno.com.br) – WordPress site built with ACF + Bootstrap  
-- [Select Soluções](https://selectsolucoes.com.br) – WordPress site built with ACF + Bootstrap  
-- [Wavecode](https://wavecode.com.br) – WordPress site built with ACF + Bootstrap  
-- [Dualbase](https://dualbase.com.br) – WordPress site built with ACF + Bootstrap  
-- [JF Pratas](https://jfpratas.com.br) – WooCommerce store with product filters (ACF)
+![WordPress](https://img.shields.io/badge/WordPress-117AC9?style=flat-square&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Sage](https://img.shields.io/badge/Sage-525DDC?style=flat-square&logoColor=white)
+![Acorn](https://img.shields.io/badge/Acorn-2B3072?style=flat-square&logoColor=white)
+![ACF](https://img.shields.io/badge/ACF-00E08F?style=flat-square&logoColor=black)
+![WP-CLI](https://img.shields.io/badge/WP--CLI-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
----
+### Tooling
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyonmuller&layout=compact&theme=radical" height="150"/>
-</p>
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-316192?style=flat-square&logo=docker&logoColor=white)
+![Lando](https://img.shields.io/badge/Lando-00AEEF?style=flat-square&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
 ---
 
-## 📬 Get in Touch
+## GitHub Stats
 
-- 🌐 [lyon.dev](https://lyon.dev)  
-- 📧 [iam@lyon.dev](mailto:iam@lyon.dev)
-- 💼 [linkedin.com/in/lyonmuller](https://www.linkedin.com/in/lyonmuller)  
+<div align="center">
+
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=lyonmuller&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyonmuller&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+[![Streak](https://streak-stats.demolab.com?user=lyonmuller&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-<h6 align="center">⭐️ Show your support by starring my repositories!</h6>
+<!-- Snake: requires GitHub Action → https://github.com/Platane/snk -->
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lyonmuller/lyonmuller/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lyonmuller/lyonmuller/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/lyonmuller/lyonmuller/output/github-contribution-grid-snake.svg" />
+</picture>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2B3072,100:525DDC&height=100&section=footer" />
