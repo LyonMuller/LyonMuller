@@ -85,7 +85,6 @@ I've delivered institutional websites, high-traffic WooCommerce stores, content 
 
 ---
 
-<!-- Snake: requires GitHub Action → https://github.com/Platane/snk -->
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lyonmuller/lyonmuller/output/github-contribution-grid-snake-dark.svg" />
